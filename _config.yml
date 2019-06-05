@@ -1,11 +1,11 @@
-title: Starter Template
-author: Panoramedia
-email: panoramedia@gmail.com
+title: Representations for Teachers as Learners (RepTal) Project
+author: RepTal Team led by Joshua Danish
+email: reptalproject@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A Site Starter Materialize Templates for Jekyll
+  A website for the RepTal Project
 
-twitter_username: macrod68
-github_username:  macrod68
+# twitter_username: macrod68
+github_username:  reptalproject
 
 sass:
     style: compressed
