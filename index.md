@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /
 ---
 
 <h1 class="page-title">The Representations for Teachers as Learners Project</h1>
