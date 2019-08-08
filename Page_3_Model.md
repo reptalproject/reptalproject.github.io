@@ -10,4 +10,4 @@ permalink: /model/
 
 More coming soon
 
-#![RepTal PD Model](/assets/PD-model.jpg "RepTal PD Model")
+<!-- ![RepTal PD Model](/assets/PD-model.jpg "RepTal PD Model") -->
