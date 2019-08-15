@@ -7,6 +7,6 @@ permalink: /model/
 <h1 class="page-title">{{ page.title | escape }}</h1>
 
 ### Our Model
-<img src="RepTaL Framework.jpg" alt="Framework">
+<img src="RepTaL_Framework.jpg" alt="Framework">
 
 
