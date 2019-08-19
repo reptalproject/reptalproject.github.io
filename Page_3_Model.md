@@ -6,7 +6,7 @@ permalink: /model/
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
 
-![RepTaL Framework](/assets/RepTaL_Framework.jpg)
+![RepTaL Framework](assets/Framework high res.png)
 
 
 
