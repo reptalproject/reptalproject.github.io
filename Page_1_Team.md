@@ -4,16 +4,13 @@ title: Team
 permalink: /team/
 ---
 
-<h1 class="page-title">{{ page.title | escape }}</h1>
-
-<p> 
-
+<h1 class="page-title">{{ page.title | escape }}</h1> 
+  
 ![Danish](/assets/danish-joshua-a.jpg) <br>
  <a href="http://www.joshuadanish.com" target="RepTalTeam_">Joshua Danish</a>
 Associate Professor and Program Coordinator  <br>
 Learning Sciences Program  <br>
 Indiana University  <br>
-</p>
  
 ![Enyedy](/assets/noel-enyedy.png) <br>
 [Noel Enyedy](https://peabody.vanderbilt.edu/bio/noel-enyedy){:target="RepTalTeam"}    
