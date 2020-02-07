@@ -8,6 +8,10 @@ permalink: /publications/
 
 ### Presentations
 
+Danish, J., Stiso, C., Nicholas, C., Hmelo-Silver, C., Park Rogers, M., and Cross Francis, D. (2020). *What, how, and why do elementary teachers think about using representations in their science teaching?* Paper presented at the International Conference on the Learning Sciences (ICLS). Nashville, TN.
+
+Nicholas, C., McClain, J., Park Rogers, M., & Danish, J. (2020). *Elementary teachers' elicitation of students’ funds of knowledge to support science learning with representations.* Poster presented at the International Conference on the Learning Sciences (ICLS). Nashville, TN. 
+
 Nicholas, C., Park Rogers, M.,  Danish, J., Hmelo-Silver, C., Zhong, Q., Stiso, C., Phillips, A., McClain, J., Gerber, A. (2020). *Rural elementary teachers’ perceptions about incorporating representations into their science teaching.* Paper presented at the National Association for Research in Science Teaching (NARST) International Conference. Portland, OR.
 
 Danish, J., Nicholas, C., Hmelo-Silver, C., Park Rogers, M., Cross Francis, D., Enyedy, N., Keifert, D., and Stiso, S. (2020). *What, how, and why do elementary teachers think about using representations in their science teaching?* Paper presented at the American Educational Research Association (AERA) Annual Meeting. San Francisco, CA.
