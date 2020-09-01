@@ -8,7 +8,7 @@ permalink: /publications/
 
 ### Presentations
 
-Park Rogers, M., Nicholas., C., Phillips, A., Zhong, Q.,., Gerber, A., Danish, J.A., Cross Francis, D., & Hmelo-Silver, C. (2021). Learning to teach science through the use of representations: The role of professional development in supporting elementary teachers with this practice. Paper to be presented at Association for Science Teacher Education (ASTE) International Conference.
+Park Rogers, M., Nicholas., C., Phillips, A., Zhong, Q., Gerber, A., Danish, J.A., Cross Francis, D., & Hmelo-Silver, C. (2021). *Learning to teach science through the use of representations: The role of professional development in supporting elementary teachers with this practice.* Paper to be presented at Association for Science Teacher Education (ASTE) International Conference.
 
 Danish, J.A., Stiso, C., Nicholas, C., Hmelo-Silver, C., Park Rogers, M., and Cross Francis, D. (2020). *What, how, and why do elementary teachers think about using representations in their science teaching?*  Paper presented at the International Conference on the Learning Sciences (ICLS). Nashville, TN.
 
