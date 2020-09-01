@@ -66,3 +66,8 @@ Maria Paz Fernandez
 PhD Student in Social Research Methodology  
 Graduate School of Education  
 University of California, Los Angeles  
+
+Alex Gerber 
+[Alex Gerber](assets/Gerber-Alex.jpg)
+PhD Candidate in Science Education 
+Indiana University 
