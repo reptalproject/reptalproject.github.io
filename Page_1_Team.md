@@ -52,9 +52,8 @@ Indiana University
 
 ![Keifert](assets/Keiffert danielle.jpg) <br>
 [Danielle Keifert](https://daniellekeifert.com/){:target="RepTalTeam"}  
-Postdoctoral Scholar  
-Department of Teaching and Learning  
-Vanderbilt University  
+Assistant Professor in Educational Psychology
+University of North Texas  
 
 ![Martinez](/assets/Martinez@MIDE.jpg) <br>
 [Jose Felipe Martinez](https://gseis.ucla.edu/directory/jose-felipe-martinez/){:target="RepTalTeam"}  
@@ -68,6 +67,6 @@ Graduate School of Education
 University of California, Los Angeles  
 
 ![Gerber](/assets/Gerber-Alex.jpg) <br>
-Alex Gerber <br>
+[Alex Gerber](https://ajgerber94.github.io/) <br>
 PhD Candidate in Science Education <br>
 Indiana University 
