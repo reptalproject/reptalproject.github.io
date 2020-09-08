@@ -52,7 +52,7 @@ Indiana University
 
 ![Keifert](assets/Keiffert danielle.jpg) <br>
 [Danielle Keifert](https://daniellekeifert.com/){:target="RepTalTeam"}  
-Assistant Professor in Educational Psychology
+Assistant Professor in Educational Psychology <br>
 University of North Texas  
 
 ![Martinez](/assets/Martinez@MIDE.jpg) <br>
