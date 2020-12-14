@@ -6,8 +6,10 @@ permalink: /publications/
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
 
-### Published Proceedings 
+### Peer Reviewed Proceedings 
 Danish, J., Stiso, C., Nicholas, C., Hmelo-Silver, C. E., Rogers, M. P., & Francis, D. C. (2020). *What, how, and why do elementary teachers think about using representations in their science teaching?.* In Gresalfi, M. and Horn, I. S. (Eds.), The Interdisciplinarity of the Learning Sciences, 14th International Conference of the Learning Sciences (ICLS) 2020, 4 (1934-1941). Nashville, Tennessee: International Society of the Learning Sciences. Retrieved from [https://repository.isls.org//handle/1/6476](https://repository.isls.org//handle/1/6476)
+
+Nicholas, C., McClain, J., Park Rogers, M., & Danish, J.A. (2020). *Elementary teachers' elicitation of students’ funds of knowledge to support science learning with representations.*  In Gresalfi, M. and Horn, I. S. (Eds.), The Interdisciplinarity of the Learning Sciences, 14th International Conference of the Learning Sciences (ICLS) 2020, Volume 4 (pp. 2151-2158). Nashville, Tennessee: International Society of the Learning Sciences.
 
 ### Presentations
 
@@ -32,8 +34,6 @@ Graduate Student Conference, Madison, WI, USA.
 Daniel, B. (2020). *Where science and language meet: An exploration of elementary science 
 teachers' talk about English learners.* Poster presented at the Second Language Research 
 Forum, Nashville, TN, USA.
-
-Nicholas, C., McClain, J., Park Rogers, M., & Danish, J.A. (2020). *Elementary teachers' elicitation of students’ funds of knowledge to support science learning with representations.* Poster presented at the International Conference on the Learning Sciences (ICLS). Nashville, TN. 
 
 Nicholas, C., Park Rogers, M.,  Danish, J.A., Hmelo-Silver, C., Zhong, Q., Stiso, C., Phillips, A., McClain, J., Gerber, A. (2020). *Rural elementary teachers’ perceptions about incorporating representations into their science teaching.* Paper presented at the National Association for Research in Science Teaching (NARST) International Conference. Portland, OR.
 
