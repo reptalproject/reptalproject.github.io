@@ -30,7 +30,7 @@ talk about English learners in inquiry science.* Poster presented at the Learnin
 Graduate Student Conference, Madison, WI, USA.
 
 Daniel, B. (2020). *Where science and language meet: An exploration of elementary science 
-teachers' talk about English learners. Poster presented at the Second Language Research 
+teachers' talk about English learners.* Poster presented at the Second Language Research 
 Forum, Nashville, TN, USA.
 
 Nicholas, C., McClain, J., Park Rogers, M., & Danish, J.A. (2020). *Elementary teachers' elicitation of students’ funds of knowledge to support science learning with representations.* Poster presented at the International Conference on the Learning Sciences (ICLS). Nashville, TN. 
