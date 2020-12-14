@@ -9,7 +9,7 @@ permalink: /publications/
 ### Peer Reviewed Proceedings 
 Danish, J., Stiso, C., Nicholas, C., Hmelo-Silver, C. E., Rogers, M. P., & Francis, D. C. (2020). *What, how, and why do elementary teachers think about using representations in their science teaching?.* In Gresalfi, M. and Horn, I. S. (Eds.), The Interdisciplinarity of the Learning Sciences, 14th International Conference of the Learning Sciences (ICLS) 2020, 4 (1934-1941). Nashville, Tennessee: International Society of the Learning Sciences. Retrieved from [https://repository.isls.org//handle/1/6476](https://repository.isls.org//handle/1/6476)
 
-Nicholas, C., McClain, J., Park Rogers, M., & Danish, J.A. (2020). *Elementary teachers' elicitation of students’ funds of knowledge to support science learning with representations.*  In Gresalfi, M. and Horn, I. S. (Eds.), The Interdisciplinarity of the Learning Sciences, 14th International Conference of the Learning Sciences (ICLS) 2020, Volume 4 (pp. 2151-2158). Nashville, Tennessee: International Society of the Learning Sciences.
+Nicholas, C., McClain, J., Park Rogers, M., & Danish, J.A. (2020). *Elementary teachers' elicitation of students’ funds of knowledge to support science learning with representations.*  In Gresalfi, M. and Horn, I. S. (Eds.), The Interdisciplinarity of the Learning Sciences, 14th International Conference of the Learning Sciences (ICLS) 2020, Volume 4 (pp. 2151-2158). Nashville, Tennessee: International Society of the Learning Sciences. Retrieved from [https://repository.isls.org//handle/1/6506](https://repository.isls.org//handle/1/6506)
 
 ### Presentations
 
