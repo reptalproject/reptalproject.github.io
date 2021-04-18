@@ -7,6 +7,9 @@ permalink: /publications/
 <h1 class="page-title">{{ page.title | escape }}</h1>
 
 ### Peer Reviewed Journal Articles
+Park Rogers, M., Hmelo-Silver, C., Nicholas, C., and Danish, J., (In press). The POWER of 
+Representations: Portraying Observations to Warrant Explanation and Reasoning in Science. *Science and Children.*
+
 McClain, J., Nicholas, C., Pierce, E., Zimmermann, K., Danish, J.A., & Zhong, Q. (In press). Using multiple representations to shine light on unobservable Earth science phenomena. *Science and Children.*
 
 ### Peer Reviewed Proceedings 
