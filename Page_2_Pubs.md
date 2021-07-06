@@ -7,6 +7,8 @@ permalink: /publications/
 <h1 class="page-title">{{ page.title | escape }}</h1>
 
 ### Peer Reviewed Journal Articles
+Danish, J. A., Johnson, H., Nicholas., C., Cross Francis, D. Hmelo-Silver, C., Park Rogers, M., Askew, R., Gerber, A., Enyedy, N. (In press). Situating video as context for teacher learning.  *Learning, Culture and Social Interaction.*
+
 Park Rogers, M., Hmelo-Silver, C., Nicholas, C., Cross Francis, D., & Danish, J. (In press).  Learning to teach with science representations: Meaningfully connecting the three dimensions of science. *Science and Children* [Teaching Teachers column]. National Science Teachers Association. 
 
 McClain, J., Nicholas, C., Pierce, E., Zimmermann, K., Danish, J.A., & Zhong, Q. (In press). Using multiple representations to shine light on unobservable Earth science phenomena. *Science and Children.*
