@@ -61,12 +61,3 @@ Associate Professor in Social Research Methodology
 Graduate School of Education  
 University of California, Los Angeles   
 
-Maria Paz Fernandez  
-PhD Student in Social Research Methodology  
-Graduate School of Education  
-University of California, Los Angeles  
-
-![Gerber](/assets/Gerber-Alex.jpg) <br>
-[Alex Gerber](https://ajgerber94.github.io/) <br>
-PhD Candidate in Science Education <br>
-Indiana University 
