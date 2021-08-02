@@ -14,13 +14,14 @@ Indiana University  <br>
  
 ![Enyedy](/assets/noel-enyedy.png) <br>
 [Noel Enyedy](https://peabody.vanderbilt.edu/bio/noel-enyedy){:target="RepTalTeam"}    
-Professor of Science Education  
-Department of Teaching and Learning  
+Professor 
+Science Education  
 Vanderbilt University 
 
 ![Hmelo-Silver](/assets/hmelo-silver-cindy.jpg) <br>
 [Cindy Hmelo-Silver](https://education.indiana.edu/about/directory/profiles/hmelo-silver-cindy.html){:target="RepTalTeam"}  
-Distinguished Professor, Learning Sciences  
+Distinguished Professor
+Learning Sciences  
 Indiana University   
 
 ![Park Rogers](/assets/park_rogers-meredith-a.jpg) <br>
@@ -31,19 +32,20 @@ Indiana University
 
 ![Cross Francis](/assets/cross_francis-dionne.jpg) <br>
 [Dionne Cross Francis](https://ed.unc.edu/people/dionne-cross-francis/){:target="RepTalTeam"} 
-Joseph R. Neikirk Term Professor
-Associate Professor, Mathematics Education
+Joseph R. Neikirk Term Professor <br>
+Associate Professor, Mathematics Education <br>
 University of North Carolina at Chapel Hill 
 
 ![Goldstone](/assets/goldstone1.jpg) <br>
 [Rob Goldstone](http://cogs.indiana.edu/people/profile.php?u=rgoldsto){:target="RepTalTeam"}  
-Chancellor's Professor  
-Psychological and Brain Sciences   
+Chancellor's Professor <br> 
+Psychological and Brain Sciences <br>  
 Indiana University  
 
 ![Keifert](assets/Keiffert danielle.jpg) <br>
 [Danielle Keifert](https://daniellekeifert.com/){:target="RepTalTeam"}  
-Assistant Professor in Educational Psychology <br>
+Assistant Professor <br>
+Educational Psychology <br>
 University of North Texas  
 
 ![Martinez](/assets/Martinez@MIDE.jpg) <br>
