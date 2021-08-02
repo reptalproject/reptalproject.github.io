@@ -20,23 +20,20 @@ Vanderbilt University
 
 ![Hmelo-Silver](/assets/hmelo-silver-cindy.jpg) <br>
 [Cindy Hmelo-Silver](https://education.indiana.edu/about/directory/profiles/hmelo-silver-cindy.html){:target="RepTalTeam"}  
-Barbara B. Jacobs Chair of Education and Technology  
-Professor of Learning Sciences  
+Distinguished Professor, Professor of Learning Sciences  
 Indiana University   
 
 ![Park Rogers](/assets/park_rogers-meredith-a.jpg) <br>
 [Meredith Park Rogers](https://education.indiana.edu/about/directory/profiles/park_rogers-meredith-a.html){:target="RepTalTeam"}    
 Associate Professor of Science Education  
-Center for P-16 Research and Collaboration    
 Curriculum and Instruction   
 Indiana University  
 
 ![Cross Francis](/assets/cross_francis-dionne.jpg) <br>
-[Dionne Cross Francis](https://education.indiana.edu/about/directory/profiles/cross_francis-dionne.html){:target="RepTalTeam"} 
-Associate Professor of Mathematics Education  
-Center for P-16 Research and Collaboration  
-Curriculum and Instruction  
-Indiana University  
+[Dionne Cross Francis](https://ed.unc.edu/people/dionne-cross-francis/){:target="RepTalTeam"} 
+Joseph R. Neikirk Term Professor
+Associate Professor, Mathematics Education
+University of North Carolina at Chapel Hill 
 
 ![Goldstone](/assets/goldstone1.jpg) <br>
 [Rob Goldstone](http://cogs.indiana.edu/people/profile.php?u=rgoldsto){:target="RepTalTeam"}  
