@@ -7,27 +7,27 @@ permalink: /team/
 <h1 class="page-title">{{ page.title | escape }}</h1> 
   
 ![Danish](/assets/danish-joshua-a.jpg) <br>
- <a href="http://www.joshuadanish.com" target="RepTalTeam_">Joshua Danish</a>
+ <a href="http://www.joshuadanish.com" target="RepTalTeam_">Joshua Danish</a> <br>
 Associate Professor and Program Coordinator  <br>
 Learning Sciences Program  <br>
 Indiana University  <br>
  
 ![Enyedy](/assets/noel-enyedy.png) <br>
 [Noel Enyedy](https://peabody.vanderbilt.edu/bio/noel-enyedy){:target="RepTalTeam"}    
-Professor 
+Professor <br>
 Science Education  
 Vanderbilt University 
 
 ![Hmelo-Silver](/assets/hmelo-silver-cindy.jpg) <br>
 [Cindy Hmelo-Silver](https://education.indiana.edu/about/directory/profiles/hmelo-silver-cindy.html){:target="RepTalTeam"}  
-Distinguished Professor
+Distinguished Professor <br>
 Learning Sciences  
 Indiana University   
 
 ![Park Rogers](/assets/park_rogers-meredith-a.jpg) <br>
 [Meredith Park Rogers](https://education.indiana.edu/about/directory/profiles/park_rogers-meredith-a.html){:target="RepTalTeam"}    
-Associate Professor of Science Education  
-Curriculum and Instruction   
+Associate Professor <br>
+Science Education <br>
 Indiana University  
 
 ![Cross Francis](/assets/cross_francis-dionne.jpg) <br>
@@ -50,7 +50,7 @@ University of North Texas
 
 ![Martinez](/assets/Martinez@MIDE.jpg) <br>
 [Jose Felipe Martinez](https://gseis.ucla.edu/directory/jose-felipe-martinez/){:target="RepTalTeam"}  
-Associate Professor in Social Research Methodology  
-Graduate School of Education  
+Associate Professor <br>
+Social Research Methodology <br> 
 University of California, Los Angeles   
 
