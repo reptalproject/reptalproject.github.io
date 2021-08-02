@@ -31,7 +31,7 @@ Science Education <br>
 Indiana University  
 
 ![Cross Francis](/assets/cross_francis-dionne.jpg) <br>
-[Dionne Cross Francis](https://ed.unc.edu/people/dionne-cross-francis/){:target="RepTalTeam"} 
+[Dionne Cross Francis](https://ed.unc.edu/people/dionne-cross-francis/){:target="RepTalTeam"} <br>
 Joseph R. Neikirk Term Professor <br>
 Associate Professor, Mathematics Education <br>
 University of North Carolina at Chapel Hill 
@@ -39,7 +39,7 @@ University of North Carolina at Chapel Hill
 ![Goldstone](/assets/goldstone1.jpg) <br>
 [Rob Goldstone](http://cogs.indiana.edu/people/profile.php?u=rgoldsto){:target="RepTalTeam"}  
 Chancellor's Professor <br> 
-Psychological and Brain Sciences <br>  
+Psychological and Brain Sciences  
 Indiana University  
 
 ![Keifert](assets/Keiffert danielle.jpg) <br>
