@@ -20,7 +20,7 @@ Vanderbilt University
 
 ![Hmelo-Silver](/assets/hmelo-silver-cindy.jpg) <br>
 [Cindy Hmelo-Silver](https://education.indiana.edu/about/directory/profiles/hmelo-silver-cindy.html){:target="RepTalTeam"}  
-Distinguished Professor, Professor of Learning Sciences  
+Distinguished Professor, Learning Sciences  
 Indiana University   
 
 ![Park Rogers](/assets/park_rogers-meredith-a.jpg) <br>
@@ -40,12 +40,6 @@ University of North Carolina at Chapel Hill
 Chancellor's Professor  
 Psychological and Brain Sciences   
 Indiana University  
-
-![Nicholas](/assets/nicholas-celeste.jpg) <br>
-[Celeste Nicholas](https://education.indiana.edu/about/directory/profiles/nicholas-celeste.html){:target="RepTalTeam"}  
-Postdoctoral Associate in the Learning Sciences  
-Center for Research on Technology and Learning  
-Indiana University    
 
 ![Keifert](assets/Keiffert danielle.jpg) <br>
 [Danielle Keifert](https://daniellekeifert.com/){:target="RepTalTeam"}  
