@@ -1,0 +1,21 @@
+# Site navigation links
+
+- title: Home
+  url: /
+  excerpt:
+  image:
+
+- title: Team
+  url: /team
+  excerpt:
+  image:
+
+- title: Publications
+  url: /publications
+  excerpt:
+  image:
+
+- title: Resources
+  url: /resources
+  excerpt:
+  image:

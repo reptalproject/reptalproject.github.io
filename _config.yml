@@ -1,11 +1,3 @@
-title: Representations for Teachers as Learners (RepTal) Project
-author: RepTal Team led by Joshua Danish
-email: reptalproject@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  A website for the RepTal Project
-
-# twitter_username: macrod68
-github_username:  reptalproject
-
-sass:
-    style: compressed
+title: "RepTal: Representations for Teachers as Learners)"
+theme: jekyll-theme-minimal
+logo: /assets/img/reptal_logo.png
