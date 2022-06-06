@@ -2,7 +2,7 @@
 
 - last: Danish
   first: Joshua
-  role: Co-PI
+  role: PI
   url: https://www.joshuadanish.com
   affiliation: Indiana University Bloomington
   status: Team Member
@@ -35,6 +35,12 @@
   role: Previously a Postdoctoral Researcher
   status: Past Team Member
 
+- last: Bell
+  first: Adam
+  role: Postdoctoral Researcher
+  status: Team Member
+  affiliation: Vanderbilt University
+
 - last: Stiso
   first: Christina
   role: Graduate Researcher
@@ -53,3 +59,22 @@
   role: Graduate Researcher
   status: Team Member
   affiliation: Indiana University Bloomington
+
+- last: Cross Francis
+  first: Dionne
+  role: Co-PI
+  status: Team Member
+  affiliation: UNC
+  pic: /assets/img/people/cross_francis-dionne.jpg
+
+- last: Daniel
+  first: Bethany
+  role: Graduate Researcher
+  status: Team Member
+  affiliation: Vanderbilt University
+
+- last: Lee
+  first: Sarah
+  role: Graduate Researcher
+  status: Team Member
+  affiliation: Vanderbilt University
