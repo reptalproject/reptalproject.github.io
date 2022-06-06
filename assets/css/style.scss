@@ -274,4 +274,20 @@ ul.pubs li {
     }
   }
   
+  table.stack th {
+    background: #dedede;}
+    
+  @media print, screen and (max-width: 39.99875em) {
+    table.stack tfoot {
+      display: none; }
+    table.stack tr,
+    table.stack td {
+      display: block; }
+    table.stack td {
+      border-top: 0; }
+      table.stack tr:nth-child(even) {
+        background-color:#dedede; }
+    
+    }
+
   
