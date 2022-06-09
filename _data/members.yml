@@ -36,12 +36,6 @@
   role: Previously a Postdoctoral Researcher
   status: Past Team Member
 
-- last: Bell
-  first: Adam
-  role: Postdoctoral Researcher
-  status: Team Member
-  affiliation: Vanderbilt University
-
 - last: Stiso
   first: Christina
   role: Graduate Researcher
@@ -61,25 +55,7 @@
   role: Graduate Researcher
   status: Team Member
   affiliation: Indiana University Bloomington
-
-- last: Cross Francis
-  first: Dionne
-  role: Co-PI
-  status: Team Member
-  affiliation: UNC
-  pic: /assets/img/people/cross_francis-dionne.jpg
-
-- last: Daniel
-  first: Bethany
-  role: Graduate Researcher
-  status: Team Member
-  affiliation: Vanderbilt University
-
-- last: Lee
-  first: Sarah
-  role: Graduate Researcher
-  status: Team Member
-  affiliation: Vanderbilt University
+  pic: /assets/img/people/Xintian.jpg
 
 - last: Keifert
   first: Teo (Danielle)
@@ -89,3 +65,73 @@
   url: https://daniellekeifert.com/
   pic: /assets/img/people/Keiffertdanielle.jpg
 
+
+- last: Gerber
+  first: Alex
+  role: Graduate Researcher
+  status: Past Team Member
+  affiliation: Washington University in Saint Louis Institute for School Partnerships
+  title: Instructional Specialist
+  pic: /assets/img/people/Alex.jpg
+
+- last: Phillips
+  first: Andrea
+  role: Graduate Researcher
+  status: Team Member
+  affiliation: Washington University in Saint Louis Institute for School Partnerships
+  pic: /assets/img/people/Andrea.png
+
+- last: Zhong
+  first: Qiu
+  role: Graduate Researcher
+  status: Past Team Member
+  pic: /assets/img/people/Qiu.jpg
+
+- last: Cross Francis
+  first: Dionne
+  role: Co-PI
+  status: Team Member
+  affiliation: University of North Carolina
+  pic: /assets/img/people/cross_francis-dionne.jpg
+
+- last: Daniel
+  first: Bethany
+  role: Graduate Researcher
+  status: Team Member
+  affiliation: Vanderbilt University
+  pic: /assets/img/people/Bethany.jpg
+
+- last: Lee
+  first: Sarah
+  role: Graduate Researcher
+  status: Team Member
+  affiliation: Vanderbilt University
+  pic: /assets/img/people/Sarah_Lee.jpg
+
+- last: Jen
+  first: Tessaly
+  role: Graduate Researcher
+  status: Team Member
+  affiliation: Vanderbilt University
+  pic: /assets/img/people/Tessaly_Jen.jpg
+
+- last: Askew
+  first: Rachel
+  role: Researcher
+  status: Past Team Member
+  affiliation: Freed-Hardeman University
+  pic: /assets/img/people/Rachel_Askew.jpg
+
+- last: Pierson
+  first: Ashlyn
+  role: Researcher
+  status: Team Member
+  affiliation: Ohio State University
+  pic: /assets/img/people/Ashlyn_Pierson.jpg
+
+- last: Bell
+  first: Adam
+  role: Postdoctoral Researcher
+  status: Team Member
+  affiliation: Vanderbilt University
+  pic: /assets/img/people/Adam_Bell.jpg

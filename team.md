@@ -43,5 +43,3 @@ permalink: /team/
 
 {% endfor %}
 </div>
-
-This page is being updated. Please contact Joshua at jdanish [at] indiana.edu if you want to now our current team.
