@@ -1,12 +1,3 @@
-- citation: 'McClain, J., Nicholas, C., Zimmermann, K., Pierce, E., Danish, J., & Zhong, Q. (2022). Observing the Unobservable. Science and Children, 60(2).'
-project: 'RepTal'
-  type: 'Journal Article'
-  visibility: 'All'
-  date: '2022'
-  links:
-  - url: 'https://www.nsta.org/science-and-children/science-and-children-novemberdecember-2022/observing-unobservable'
-    linklabel: 'paper'
-    
 - citation: 'Danish, J. A., Johnson, H., Nicholas, C., Cross Francis, D., Hmelo-Silver, C. E., Park Rogers, M., . . . Enyedy, N. (2021). Situating video as context for teacher. Learning, Culture and Social Interaction, 30.'
   project: 'RepTal'
   type: 'Journal Article'
