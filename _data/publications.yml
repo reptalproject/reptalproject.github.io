@@ -990,15 +990,6 @@
   type: 'Conference Presentations'
   date: '2023'
 
-- citation: 'Tu, X., & Danish, J. (2023). Designing a Technology-Enhanced Play Environment for Young Children’s Science Modeling Practice. Proceedings of the 2023 Symposium on Learning, Design and Technology, 60–69. https://doi.org/10.1145/3594781.3594798'
-  project: 'STEP'
-  visibility: 'All'
-  type: 'Journal Article'
-  date: '2023'
-  links:
-  - url: 'https://dl.acm.org/doi/10.1145/3594781.3594798'
-    linklabel: 'paper'
-
 - citation: 'Tu, X., Danish, J., Humburg, M., Zhou, M., Mathayas, N., Enyedy, N., & Jen, T. (2023). Understanding young children’s science learning through embodied communication within an MR environment. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-023-09395-z'
   project: 'STEP'
   visibility: 'All'
