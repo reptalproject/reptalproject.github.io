@@ -9,7 +9,7 @@ permalink: /publications/
 
 {% assign thisProject = site.data.rapt_site.project %}
 
-{% assign citations = site.data.rapt_web_data.rapt_web_data.publications |  sort: "date" | reverse | group_by: "date" %}
+{% assign citations = site.data.rapt_web_data.publications |  sort: "date" | reverse | group_by: "date" %}
 {% for citation in citations %}
 {% assign itemsSorted = citation.items | where: "project",thisProject | sort: "citation" %}
 
