@@ -48,16 +48,16 @@
 
 - last: Stiso
   first: Christina
-  role: Graduate Researcher
+  role: Previous Graduate Researcher
   url:  http://christinastiso.com
-  status: Team Member
+  status: Past Team Member
   affiliation: Indiana University Bloomington
   pic: /assets/img/people/Christina_STISO.jpg
 
 - last: Humburg
   first: Megan
-  role: Graduate Researcher
-  status: Team Member
+  role: Previous Graduate Researcher
+  status: Past Team Member
   affiliation: Indiana University Bloomington
   pic: /assets/img/people/Megan.jpg
   url: https://scholar.google.com/citations?user=76ShWdIAAAAJ&hl=en&oi=ao
@@ -144,8 +144,8 @@
 
 - last: Bell
   first: Adam
-  role: Postdoctoral Researcher
-  status: Team Member
+  role: Previously a Postdoctoral Researcher
+  status: Past Team Member
   affiliation: Vanderbilt University
   pic: /assets/img/people/Adam_Bell.jpg
 
