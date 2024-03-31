@@ -1,3 +1,6 @@
 title: "RepTal: Representations for Teachers as Learners)"
 theme: jekyll-theme-minimal
 logo: /assets/img/reptal_logo.png
+url: "http://reptalproject.org" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
