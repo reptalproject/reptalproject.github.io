@@ -64,11 +64,18 @@
   
 - last: Tu
   first: Xintian
+  role: Previously a Graduate Researcher
+  status: Past Team Member
+  affiliation: Indiana University Bloomington
+  url: https://tuxintian.com/
+
+- last: Ryan
+  first: Zach
   role: Graduate Researcher
   status: Team Member
   affiliation: Indiana University Bloomington
-  pic: /assets/img/people/Xintian.jpg
-  url: https://tuxintian.com/
+  pronouns: He/Him
+  url: https://www.zach-ryan.com/ 
 
 - last: Keifert
   first: Teo (Danielle)
