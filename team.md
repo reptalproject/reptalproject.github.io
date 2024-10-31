@@ -1,6 +1,8 @@
 ---
 layout: default
 permalink: /team/
+projectName: 'RepTal'
+
 ---
 
 ## The RepTal Team

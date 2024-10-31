@@ -1,6 +1,8 @@
 ---
 layout: default
 permalink: /resources/
+projectName: 'RepTal'
+
 ---
 
 ## RepTal Resources
